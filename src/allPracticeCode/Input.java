@@ -1,4 +1,4 @@
-package javaInput;
+package allPracticeCode;
 import java.util.Scanner;
 
 public class Input {

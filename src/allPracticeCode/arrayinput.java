@@ -1,6 +1,6 @@
-package javaInput;
+package allPracticeCode;
 import java.util.Scanner;
-import java.util.Arrays;
+
 public class arrayinput {
     static void main(String args[]) {
 
