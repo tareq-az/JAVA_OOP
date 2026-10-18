@@ -2,7 +2,7 @@ package allPracticeCode;
 import java.util.Scanner;
 
 public class arrayinput {
-    static void main(String args[]) {
+    static void main(Stringpractice args[]) {
 
         Scanner sc= new Scanner(System.in);
         int n;
