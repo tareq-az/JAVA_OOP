@@ -7,5 +7,9 @@ public class Main {
         e1.age=40;
         e1.roll=44;
         e1.print();
+
+        constructor_overloading co= new constructor_overloading();
+        constructor_overloading co2= new constructor_overloading("Jamin",22);
+        constructor_overloading co3= new constructor_overloading(244);
     }
 }
