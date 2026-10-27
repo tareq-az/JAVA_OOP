@@ -24,5 +24,13 @@ public class Main {
         mycar2.power=100;
         mycar2.type="SUV";
         mycar2.printcar();
+
+        //multilevel inheritance
+        axio pcar = new axio();
+        pcar.brand= "TOYOTA";
+        pcar.milage="600";
+        pcar.show();
+
+        car pcar2=new axio();
     }
 }
