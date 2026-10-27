@@ -13,5 +13,16 @@ public class Main {
         BankAccount b1=new BankAccount();
         b1.deposit(1000);
         b1.withdraw(5000);
+
+        //Inheritance
+        vehicle mycar= new vehicle();
+        mycar.brand="Toyota";
+        mycar.origin="Japan";
+        mycar.start();
+        mycar.printinfo();
+        car mycar2=new car();
+        mycar2.power=100;
+        mycar2.type="SUV";
+        mycar2.printcar();
     }
 }
