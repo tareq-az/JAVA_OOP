@@ -32,5 +32,10 @@ public class Main {
         pcar.show();
 
         car pcar2=new axio();
+
+        //super class
+        dog d1 = new dog("Tommy","brown");
+        d1.bark();
+        d1.eat();
     }
 }
