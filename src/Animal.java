@@ -4,7 +4,7 @@ public class Animal {
             this.name=name;
         }
         public void eat(){
-            System.out.println("dog is eating bread");
+            System.out.println(name+" is eating bread");
             System.out.println("dog's name is "+name);
         }
 }

@@ -37,5 +37,8 @@ public class Main {
         dog d1 = new dog("Tommy","brown");
         d1.bark();
         d1.eat();
+
+        //abstruction
+
     }
 }
